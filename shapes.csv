@@ -1,5 +1,5 @@
 ﻿ShapeType,x-dim/x1/cx,y-dim/y1/cy,width/x2/rx,heights/y2/ry,color
-rectangle,0,0,200,100,green
+rect,0,0,200,100,green
 line,100,50,200,150,yellow
 circle,250,50,50,0,blue
 ellipse,250,50,100,50,red
