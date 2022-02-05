@@ -1,4 +1,4 @@
-﻿ShapeType,x-dim/x1/cx,y-dim/y1/cy,width/x2/rx,heights/y2/ry,color
+﻿ShapeType,xdim,ydim,width,heights,color
 rect,0,0,200,100,green
 line,100,50,200,150,yellow
 circle,250,50,50,0,blue
