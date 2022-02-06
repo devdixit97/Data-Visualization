@@ -1,5 +1,5 @@
 ﻿ShapeType,xdim,ydim,width,heights,color
 rect,0,0,200,100,green
 line,100,50,200,150,yellow
-circle,0,200,50,0,blue
+circle,100,200,50,0,blue
 ellipse,250,50,100,50,red
